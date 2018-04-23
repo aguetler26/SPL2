@@ -22,6 +22,7 @@ else:
 
 lieblingszahl = input("Was ist deine Lieblingszahl? ")
 print("Super, ich mag die Zahl", lieblingszahl)
+print("Aber die coolere Zahl", int(lieblingszahl)+10, "mag ich noch mehr!")
 
 
 
